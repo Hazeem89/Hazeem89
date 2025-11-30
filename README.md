@@ -26,7 +26,7 @@ Currently studying **Full Stack Development**, with experience in **BIM Project 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) &nbsp; ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) &nbsp; ![Figma](https://img.shields.io/badge/Figma-F5A300?style=for-the-badge&logo=figma) &nbsp; ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&label=Learning%20In%20Progress)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=aspnetcore&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-86D3A1?style=for-the-badge)
@@ -107,6 +107,6 @@ You can check out the project here:
 
 ## 💡 Final Note
 
-I'm a **results-oriented civil engineer** making a transition into **software development and digital design**. I'm currently seeking **internships** or **junior roles** in programming, BIM, or tech-enabled engineering fields.
+Dedicated and results-oriented civil engineer transitioning into software and web development. Seeking internships or junior roles in programming or related fields, where I can apply my engineering background and growing technical skill set to contribute to innovative and impactful projects.
 
 📬 *Let’s connect and build something impactful together!*
