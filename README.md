@@ -7,6 +7,31 @@ Civil Engineer with strong analytical thinking, attention to detail, and excelle
 
 Currently studying Full Stack Development, with experience in BIM Project Planning. I'm highly motivated to combine programming and digital design with engineering, construction, and technology-driven solutions.
 
+
+
+---
+
+## 🛠 Skills
+
+### 💻 Programming
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;  ![React](https://camo.githubusercontent.com/bf2f08f2dc847a80500375f677d8e7ac983e43d32874ac7df6ca6f8ad30c6eee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b) &nbsp; ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) &nbsp; ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) &nbsp; ![Figma](https://img.shields.io/badge/Figma-F5A300?style=for-the-badge&logo=figma) &nbsp; ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=aspnetcore&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-86D3A1?style=for-the-badge)
+
+
+### 🏗 Engineering
+ ![AutoCAD](https://img.shields.io/badge/AutoCAD-0e76a8?style=for-the-badge&logo=autocad) &nbsp; ![SketchUp](https://img.shields.io/badge/SketchUp-000000?style=for-the-badge&logo=sketchup)  
+ ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office) &nbsp; ![Navisworks](https://img.shields.io/badge/Navisworks-333333?style=for-the-badge&logo=autodesk)  
+ ![Robot](https://img.shields.io/badge/Robot%20Structural%20Analysis-1b3e53?style=for-the-badge&logo=autodesk) &nbsp; ![Revit](https://img.shields.io/badge/Revit-2e2e2e?style=for-the-badge&logo=revit) 
+
+
+
 ---
 
 ## 🌍 Languages
