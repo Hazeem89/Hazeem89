@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Mohammad Hazeem!
 
-## 🎓 Civil Engineer | 📍 Based in Halmstad, Sweden
+### 🎓 Bachelor of Science in Civil Engineering | Software Development Student | 📍 Based in Halmstad, Sweden
 📞 +46 720 149 856 | 📧 [Mohammad@3axis.se](mailto:Mohammad@3axis.se)
 
-Civil Engineer with strong analytical thinking, attention to detail, and excellent communication skills. Skilled in design, drafting, and project coordination, with international experience in architectural design and construction consulting.
+Software Development student with a background in civil engineering.
+Strong analytical thinking, attention to detail, and clear communication, with professional experience in complex technical environments.
 
-Currently studying Full Stack Development, with experience in BIM Project Planning. I'm highly motivated to combine programming and digital design with engineering, construction, and technology-driven solutions.
+Currently studying Full Stack Development with experience in backend development, databases, and web technologies. Motivated to build scalable, data-driven software solutions and combine engineering discipline with modern software development.
 
 
 
@@ -38,33 +39,27 @@ Currently studying Full Stack Development, with experience in BIM Project Planni
 - Arabic: Native
 - English: Proficient
 - Swedish: Proficient
+- German: Elementary proficiency
 
 ---
 
 ## 💼 Professional Experience
 
-### Founder & Sole Consultant | 2022 – Present
-- Led architectural and technical design of infrastructure projects (fuel, EV, hydrogen stations).
-- Developed site layouts and traffic flow plans aligned with local standards.
-- Created full permit documentation: 2D/3D drawings, visualizations, quantity take-offs.
-- Managed communication across clients, contractors, and authorities.
+**3AXIS Arkitekt & Byggkonsult – Founder & Consultant (2022 – Present)**  
+- Designed and implemented architectural projects including fuel stations and  
+  EV/hydrogen charging stations.
+- Created 2D/3D models, simulations, and visualizations, aligning with generative  
+  design and simulation concepts.
+- Coordinated clients and contractors, ensuring technical accuracy and regulatory  
+  compliance.
 
-### CAD Engineer | 2016 – 2021
-- Designed and updated permit/construction drawings for fueling infrastructure.
-- Supported 3D modeling, architectural planning, and visualization.
-- Performed quantity/area calculations and liaised with stakeholders.
+**Drivmedelsteknik AB – CAD Engineer (2016 – 2021)**  
+- Produced and updated construction documentation and 3D models for energy  
+  infrastructure projects.
+- Collaborated with engineers and authorities to integrate design and technical  
+  requirements.
+- Applied data-driven planning for efficient building layouts.
 
-### Trainee Production Engineer | 2014.10 – 2015.02
-- Worked on ground and foundation operations for residential and hospital projects.
-- Gained hands-on experience in site management and preparation.
-
-### Site Engineer | 2013
-- Oversaw site works for roads, sidewalks, lighting, and landscaping.
-- Inspected finished apartments for quality and compliance.
-- Managed resources and enforced safety measures.
-
-### Trainee Production Engineer | 2011.07
-- Observed construction methods on silo and water treatment projects.
 
 ---
 
