@@ -15,7 +15,7 @@ Currently studying Full Stack Development with experience in backend development
 ## 🛠 Skills
 
 ### 💻 Programming
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;  ![React](https://camo.githubusercontent.com/bf2f08f2dc847a80500375f677d8e7ac983e43d32874ac7df6ca6f8ad30c6eee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b) &nbsp; ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) &nbsp; ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) &nbsp; ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) &nbsp; ![Figma](https://img.shields.io/badge/Figma-F5A300?style=for-the-badge&logo=figma) &nbsp; ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
@@ -74,24 +74,35 @@ Currently studying Full Stack Development with experience in backend development
 
 ## 🚀 Latest Projects
 
-### **Freaky-Fashion E-commerce Platform**
-A comprehensive full-stack e-commerce web application for fashion retail, built with a modern tech stack. The platform features user authentication, shopping cart functionality, favorites management, and a complete admin dashboard for product and category management.
+### **Freaky-Fashion E-commerce Platform with Jwt Authentication**
+  A comprehensive full-stack e-commerce web application for fashion retail, built with a modern tech stack and secure JWT-based authentication. The platform features advanced user authentication with refresh tokens, shopping cart functionality, favorites management, and a complete admin dashboard for product and category management.
 
-**Key Features:**
-- User registration and authentication with session management
-- Product catalog with category filtering and search functionality
-- Shopping cart and favorites list
-- Admin panel for managing products, categories, and images
-- Image upload support for products
-- Responsive design with Bootstrap
+  **Key Features:**
+  - **Secure JWT Authentication:** Stateless authentication with access tokens (15min) and refresh tokens (7 days)
+  - **Password Security:** Bcrypt hashing with salt and pepper for maximum protection
+  - **Automatic Token Refresh:** Seamless user experience with axios interceptors
+  - **HttpOnly Cookies:** XSS protection for refresh token storage
+  - Product catalog with category filtering and search functionality
+  - Shopping cart and favorites list with anonymous-to-authenticated sync
+  - Admin panel with role-based access control (RBAC) for managing products, categories, and images
+  - Image upload support with file validation
+  - Responsive design with Bootstrap
 
-**Tech Stack:**
-- **Backend:** Node.js, Express.js, SQLite, multer, express-session
-- **Frontend:** React, Vite, Bootstrap, React Router DOM
-- **Database:** SQLite with comprehensive schema for users, products, categories, and relationships
+  **Tech Stack:**
+  - **Backend:** Node.js, Express.js, SQLite, JWT, bcrypt, cookie-parser, multer
+  - **Frontend:** React, Vite, Axios (with auto-refresh), Bootstrap, React Router DOM
+  - **Security:** JWT tokens, bcrypt password hashing, HttpOnly cookies, CORS
+  - **Database:** SQLite with comprehensive schema including refresh token management
 
-[View Project](https://github.com/Hazeem89/Full-stack_e-commerce)
+  **Architecture Highlights:**
+  - Dual-token strategy for enhanced security and user experience
+  - Centralized authentication middleware
+  - Automatic token refresh with axios interceptors
+  - Role-based access control for admin features
+  - Complete authentication flow documentation
 
+  [View Project](https://github.com/Hazeem89/Full-stack_e-commerce_Jwt_auth) | [Documentation](https://github.com/Hazeem89/Full-stack_e-commerce_Jwt_auth/blob/main/README.md)
+  
 ---
 
 ### **BS5950 UC Section Design Tool**
