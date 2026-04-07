@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Hazeem!
 
-### 🎓 Bachelor of Science in Civil Engineering | Software Development Student  
+### 🎓 Bachelor of Science in Civil Engineering | Software Development Junior  
 📍 Based in Halmstad, Sweden
 📞 +46 720 149 856 | 📧 [Mohammad@3axis.se](mailto:Mohammad@3axis.se)
 
