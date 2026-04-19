@@ -1,13 +1,23 @@
 # 👋 Hi, I'm Mohammad Hazeem!
 
-### 🎓 Bachelor of Science in Civil Engineering | Software Development Junior  
+### 🎓BIM Engineer | Revit & Navisworks | BIM Automation & Software Development | Founder at 3AXIS
 📍 Based in Halmstad, Sweden
 📞 +46 720 149 856 | 📧 [Mohammad@3axis.se](mailto:Mohammad@3axis.se)
 
-Software Development student with a background in civil engineering.
-Strong analytical thinking, attention to detail, and clear communication, with professional experience in complex technical environments.
+## 🚀 About Me
 
-Currently studying Full Stack Development with experience in backend development, databases, and web technologies. Motivated to build scalable, data-driven software solutions and combine engineering discipline with modern software development.
+Software Developer with a background in Civil Engineering and 10+ years of experience in technical and engineering environments.
+
+I build **data-driven applications and automation tools**, with experience in both:
+- Modern web development (JavaScript, React, Node.js)  
+- Engineering-focused solutions (BIM workflows, computational tools)
+
+My work often involves translating complex logic into code — whether it's:
+- Engineering calculations  
+- Data processing workflows  
+- Full-stack web applications  
+
+I am particularly interested in building **scalable backend systems, APIs, and automation tools**, especially in technical or engineering-related domains.
 
 
 
@@ -30,17 +40,9 @@ Currently studying Full Stack Development with experience in backend development
 ### 🏗 Engineering
  ![AutoCAD](https://img.shields.io/badge/AutoCAD-0e76a8?style=for-the-badge&logo=autocad) &nbsp; ![SketchUp](https://img.shields.io/badge/SketchUp-000000?style=for-the-badge&logo=sketchup)  
  ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office) &nbsp; ![Navisworks](https://img.shields.io/badge/Navisworks-333333?style=for-the-badge&logo=autodesk)  
- ![Robot](https://img.shields.io/badge/Robot%20Structural%20Analysis-1b3e53?style=for-the-badge&logo=autodesk) &nbsp; ![Revit](https://img.shields.io/badge/Revit-2e2e2e?style=for-the-badge&logo=revit) 
+ ![Robot](https://img.shields.io/badge/Robot%20Structural%20Analysis-1b3e53?style=for-the-badge&logo=autodesk) &nbsp; ![Revit](https://img.shields.io/badge/Revit-2e2e2e?style=for-the-badge&logo=revit) &nbsp;  ![Dynamo](https://img.shields.io/badge/Dynamo-1f4e79?style=for-the-badge&logo=autodesk)
 
 
-
----
-
-## 🌍 Languages
-- Arabic: Native
-- English: Proficient
-- Swedish: Proficient
-- German: Elementary proficiency
 
 ---
 
@@ -80,9 +82,9 @@ Currently studying Full Stack Development with experience in backend development
 
 ---
 
-## 🚀 Latest Projects
+## ⭐ Featured Projects
 
-### **Freaky-Fashion E-commerce Platform with Jwt Authentication**
+### 🥇 **Full-Stack E-commerce Platform with Jwt Authentication**
   A comprehensive full-stack e-commerce web application for fashion retail, built with a modern tech stack and secure JWT-based authentication. The platform features advanced user authentication with refresh tokens, shopping cart functionality, favorites management, and a complete admin dashboard for product and category management.
 
   **Key Features:**
@@ -113,19 +115,40 @@ Currently studying Full Stack Development with experience in backend development
   
 ---
 
-### **BS5950 UC Section Design Tool**
+### 🥈 **Engineering Automation — BS5950 Column Design Tool**
 A web-based application built with React and Vite, allowing engineers to perform structural capacity checks for Universal Column (UC) steel sections in accordance with the British Standard BS 5950.
 
 This tool automates the process of calculating the structural capacity of UC steel sections, helping engineers ensure compliance with industry standards. It's designed to be both intuitive and efficient, streamlining the design verification process.
 
-You can check out the project here:
-[BS5950_UC Section Design](https://github.com/Hazeem89/BS5950_Column_Design)
+[View Project](https://github.com/Hazeem89/BS5950_Column_Design) | [BS5950_UC Section Design](https://3axis.se/mina/uc/)
 
 ---
 
-## 🎯 Career Objective
-Dedicated and results-oriented civil engineer transitioning into software and web development. Seeking internships or junior roles in programming or related fields, where I can apply my engineering background and growing technical skill set to contribute to innovative and impactful projects.
+### 🥉 BIM Automation — Revit QTO Workflow
+- Automation workflow for extracting and structuring BIM data  
+- Dynamo + Python-based solution  
+- Generates BOQ-ready outputs  
+
+[View Project](https://github.com/Hazeem89/revit-bim-qto-automation)
 
 ---
 
-📬 Let's connect and build something impactful together!
+## 🌍 Languages
+- Arabic: Native
+- English: Proficient
+- Swedish: Proficient
+- German: Elementary proficiency
+
+---
+
+## 🎯 Career Focus
+
+Seeking opportunities in:
+- Software Engineering (Frontend /Backend / Full Stack)  
+- Data-driven and technical systems  
+- Engineering-related software and automation  
+
+
+---
+
+📬 Let’s connect and build impactful systems.
