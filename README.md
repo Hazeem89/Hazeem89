@@ -49,10 +49,10 @@ I am particularly interested in building **scalable backend systems, APIs, and a
 ## 💼 Professional Experience
 
 **Frontend Development Intern – Applio Tech AB (Jan 2026 – Juni 2026)**  
-- Developing modern web applications using **Next.js and React**.  
+- Developing modern web applications using **Next.js and React** for an IoT platform. 
 - Building responsive, user-focused UI components with mobile-first design principles.  
 - Collaborating in an agile team using **GitLab** and version control workflows.  
-- Integrating APIs and improving application performance.  
+- Integrating APIs to handle IoT device data and improve performance.
 - Participating in code reviews, testing, and continuous improvement practices.
 
 **3AXIS Arkitekt & Byggkonsult – Founder & Consultant (2022 – Present)**  
@@ -74,10 +74,9 @@ I am particularly interested in building **scalable backend systems, APIs, and a
 ---
 
 ## 🎓 Education
-- Full Stack Developer (Ongoing) – Yrkeshögskolan_EC Utbildning AB (2024.09–2026.06)
+- Full Stack Developer – Yrkeshögskolan_EC Utbildning AB (2024.09–2026.06)
 - BIM Project Planning – Stockholms Tekniska Institut (2024.10–2025.02)
 - Short Road Course – Halmstad University (2014.09–2015.03)
-- Swedish Language (SFI) – Lernia (2014.03–2014.08)
 - B.Sc. in Civil Engineering – University of Damascus (2008–2013)
 
 ---
